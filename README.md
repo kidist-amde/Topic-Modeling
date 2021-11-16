@@ -1,10 +1,10 @@
 # Topic modeling using LDA
 The goal of this work is to identify consistent topics in time, i.e., set of terms that become frequent together throughout time.
 # Data set 
- Twitter dataset on COVID from Kaggle (https://www.kaggle.com/gpreda/covid19-tweets).
+ Twitter dataset on COVID-19 from Kaggle (https://www.kaggle.com/gpreda/covid19-tweets).
 
 ### Project notebooks
-
+ 
 There are two notebooks for this project. 
 1. Data processing.ipynb => This notebook contains an implementation of data preprocesing. It was used to create processed data which eventually will be used by the LDA topic modeling algorithm
 2. Topic Modeling.ipynb => This notebook contains an implementation of the LDA algorithm for topic modeling and the visualization of the experimental results
