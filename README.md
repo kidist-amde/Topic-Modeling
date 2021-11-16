@@ -1,7 +1,9 @@
 # Topic modeling using LDA
 The goal of this work is to identify consistent topics in time, i.e., set of terms that become frequent together throughout time.
+The report can be find [here](https://drive.google.com/file/d/1CSuCD-LD1WxL9GQhw1I6LQkkOW0emGg4/view?usp=sharing). 
 # Data set 
  Twitter dataset on COVID-19 from Kaggle (https://www.kaggle.com/gpreda/covid19-tweets).
+
 
 ### Project notebooks
  
